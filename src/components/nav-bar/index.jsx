@@ -1,7 +1,6 @@
 import React from "react"
 import "./index.css"
 import CartWidget from "../cart-widget"
-// import Counter from "../counter"
 
 const Navbar = () => {
     return (

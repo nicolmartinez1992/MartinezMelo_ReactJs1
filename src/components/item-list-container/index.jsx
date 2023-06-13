@@ -3,7 +3,7 @@ import Title from "../title";
 
 const ItemListContainer = () => {
     return (
-        <Title greeting= "TRACTO" />
+        <Title greeting= "Bienvenidos a TRACTO!" />
     )
 }
 
